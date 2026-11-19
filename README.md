@@ -8,7 +8,6 @@ The vision is to build a personalized assistant that can understand commands, in
 
 Rather than relying on a conventional cloud-first assistant, Ether is being developed with a strong emphasis on local execution, user control, and privacy.
 
----
 
 ## Vision
 
